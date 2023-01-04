@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae04dcc-abe4-4722-a3a3-03c6f50237c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootCampInter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/anatomiaClasses/BoletimEstudantil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/anatomiaClasses/MinhaClasse.java" afterDir="false" />
+    <list default="true" id="eae04dcc-abe4-4722-a3a3-03c6f50237c0" name="Changes" comment="Anatomia de classes">
+      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/tiposVariaveis/TiposVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +32,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TiposVariaveis">
     <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaSintaxe.edu.anatomiaClasses.MinhaClasse" />
       <module name="bootCampInter" />
@@ -58,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TiposVariaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.javaSintaxe.tiposVariaveis.TiposVariaveis" />
+      <module name="bootCampInter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javaSintaxe.tiposVariaveis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiposVariaveis" />
         <item itemvalue="Application.MinhaClasse" />
       </list>
     </recent_temporary>
@@ -73,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672710031970</updated>
     </task>
+    <task id="LOCAL-00001" summary="Anatomia de classes">
+      <created>1672793309531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672793309531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Anatomia de classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Anatomia de classes" />
   </component>
 </project>
