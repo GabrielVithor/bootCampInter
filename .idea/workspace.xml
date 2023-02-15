@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae04dcc-abe4-4722-a3a3-03c6f50237c0" name="Changes" comment="Operadores logicos">
-      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/metodos/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/metodos/Usuario.java" afterDir="false" />
+    <list default="true" id="eae04dcc-abe4-4722-a3a3-03c6f50237c0" name="Changes" comment="Metodos">
+      <change afterPath="$PROJECT_DIR$/src/edu/blocos/conceituação" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/controleDeFluxo/controleDeFluxo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/javaDoc/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/javaSintaxe/terminalArgumentos/MinhaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/logicaCondicional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/logicaCondicional/OperadoresRelacionais" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/logicaCondicional/operadoresLogicos" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,28 +27,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JnNilDhTE03QXWsc42rtgk6xDB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/workspace/bootCampInter"
   }
-}</component>
-  <component name="RunManager" selected="Application.Usuario">
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSintaxe.edu.anatomiaClasses.MinhaClasse" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.logicaCondicional.Main" />
       <module name="bootCampInter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSintaxe.edu.anatomiaClasses.*" />
+          <option name="PATTERN" value="edu.logicaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="edu.javaSintaxe.terminalArgumentos.MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.javaSintaxe.terminalArgumentos.MinhaClasse" />
+      <module name="bootCampInter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javaSintaxe.terminalArgumentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.edu.javaSintaxe.terminalArgumentos.MinhaClasse" />
         <item itemvalue="Application.Usuario" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.TiposVariaveis" />
-        <item itemvalue="Application.MinhaClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672801593557</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Metodos">
+      <created>1672878879119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672878879119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +187,7 @@
     <MESSAGE value="Operadores" />
     <MESSAGE value="Tipos de variaveis" />
     <MESSAGE value="Operadores logicos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores logicos" />
+    <MESSAGE value="Metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metodos" />
   </component>
 </project>

@@ -1,0 +1,29 @@
+OBJETIVO
+
+1 - Entender operadores logicos
+2 - como sao utilizados
+
+Conceituação
+"Sao simbolos especiais quais sao capazes de relacionar comparações
+logicas entre operandos logicos ou expressoes entre operando logicos ou
+expressoes em em seguida, retornar um resultado"
+
+Tipos:
+Conjunçã
+Disjunção
+Disjunção exclusiva
+Negação
+
+
+Conjução: é operação liogica que só é verdadeira quando ambos os operandos ou
+expressoes envolvidas sao verdade (&& - "and")
+
+Disjunção: operação que so é falsa quando ambos os operadoes ou expressões sao
+falsos ( ||  - "or" )
+
+Disjunção exclusiva: operação que só é verdade quando ambos os valores ou expressoes
+sao opostos ( ^ - "xor")
+
+Negação : operação que inverte o valor logico de um operando ou expressão( ! - "not" )
+
+Quando utilizar?

@@ -1,0 +1,23 @@
+Conceituação
+"Sao estruturas que tem a capacidade de direcionar a execução do codigo"
+
+Tipos:
+Decisao: if,if-else,if-else,if, switch e operador ternario
+Repetição: for,while, do while
+Interrupção: break, continue e return
+
+Decisao: estrutura que avalia um condição booleana ou variavel
+para direcionar o fluxo de execução
+
+Opções: if(se), switch(escolha) e operador ternario
+
+Operador ternario -> (condição) ? true : false;
+
+Boas praticas
+
+Switch é para valores extatos e if para expressoes booleanas
+Evitar usar o default do switch para "cases genericos"
+Evitar o efeito "flecha" dos if's
+Evitar muitos if's alinhados
+Criação de variaveis de expressões
+
